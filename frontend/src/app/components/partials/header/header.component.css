@@ -1,0 +1,17 @@
+header {
+  position: relative;
+  background: white;
+  padding: 0;
+  border-bottom: 1px solid #92927e;
+}
+
+a {
+  color: #3131fa;
+  text-decoration: none;
+}
+
+a:hover {
+  background: #92927e;
+  color: white;
+  cursor: pointer;
+}
